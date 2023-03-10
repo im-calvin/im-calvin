@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 
-Hi 👋, I am Kelvin a second year computer engineering student at the University of British Columbia with a keen interest in both computer hardware and software. I'm also an aspiring software engineer with a passion for coding and building innovative solutions. In my free time, I enjoy pursuing personal projects, clacking on mechanical keyboards, and playing games.
+Hi 👋, I am Kelvin a second year computer engineering student at the University of British Columbia with a keen interest in both computer hardware and software. I'm also an aspiring software engineer with a passion for coding and building innovative solutions. In my free time, I enjoy pursuing personal projects, building mechanical keyboards, and playing games.
 
 <!-- Projects -->
 
