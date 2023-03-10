@@ -27,7 +27,7 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
   - Achieved a 300% improvement in operations per cycle through the use of pipelining, exceeding course expectiations
   
   #### [Graphs, Games, and Interplanetary Travel](https://cpen221-ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-79cb9a0844634b7288226639604eb0b0) - CPEN 221
-  - Collaboratively built the “Kamino Game” in Java and produced the most optimal solution to win the course competition
+  - Collaboratively built the “Kamino Game” in Java and built an algorithm to traverse the game to collect points.
   - Implemented graph and tree data structures with associated algorithms while optimizing time and space complexity
   - Exercised best practices including unit testing, documentation, and encapsulation to ensure quality and correctness
   
