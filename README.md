@@ -21,9 +21,10 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
   - Followed security protocols by hashing and salting all passwords and encrypting incoming and outgoing data via AES
   
   #### Simple RISC Machine - CPEN 211
-  - Implemented a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board in 3 weeks
+  - Designed a Turing Complete 16-bit RISC Machine using System Verilog on an FPGA board in 3 weeks
   - Subdivided the machine into smaller modules to be designed, tested, and debugged more easily
-  - Utilized pipelining to increase operations per cycle by 300% and go beyond course expectations
+  - Developed testbenches through ModelSim to thoroughly test system designs
+  - Achieved a 300% improvement in operations per cycle through the use of pipelining, exceeding course expectiations
   
   #### [Graphs, Games, and Interplanetary Travel](https://cpen221-ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-79cb9a0844634b7288226639604eb0b0) - CPEN 221
   - Collaboratively built the “Kamino Game” in Java and produced the most optimal solution to win the course competition
@@ -32,6 +33,10 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
   
   ### :electron: [Musictag](https://github.com/im-calvin/musictag)
   Musictag is a project that was inspired by my personal frustration with manually modifying the metadata of cover songs downloaded from [YouTube](https://github.com/ytdl-org/youtube-dl). To solve this problem, I developed an [Electron](https://www.electronjs.org/) app that streamlines the process of editing music metadata. Throughout the development of this project, I gained a deep understanding of the full development life cycle of a product, from ideation to deployment. Currently, Musictag is only capable of serving songs from the [Holodex API](https://holodex.stoplight.io/), but I plan to expand its capabilities to include other libraries like [last.fm](https://www.last.fm/) so that it can serve an even larger variety of songs. With the help of [Electron Forge](https://www.electronforge.io/), I'm able to publish updates to users and package the app for Windows, MacOS, and Linux.
+  
+  ### 🐈 [Mittens Bot](https://github.com/im-calvin/mittens_bot)
+ Mittens is a project that I started as a complete beginner in programming, and she remains one of my most cherished projects. Initially, she was meant to help communicate with Japanese speaking users in a small Discord channel by translating every message. However, it soon grew to include other features like notifying users when Hololive streamers scheduled streams or went live. Over time, I added more functionality, such as translating Japanese kanji to furigana, pulling lyrics for karaoke tracks, and notifying for Twitter alerts. It is now up and running on Heroku without any issue. Through this project, I learned about web scraping, asynchronous functions, APIs, and more. Despite its humble beginnings, Mittens has become an important part of my programming journey. One day, I hope to refactor her with my newfound knowledge and smile at the workarounds that I had to make in my infancy as a programmer.
+
   
 <!-- Hackathons --> 
 
@@ -46,8 +51,6 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
   #### 🧪 [Organic Chemistry Quiz Discord Bot](https://github.com/im-calvin/HackToSchoolBot22) [Hack To School 2022 Hackathon First Overall] (https://github.com/bxian03/HackToSchoolAPI22)
   The Organic Chemistry Quiz Discord Bot was aimed to make learning compound names more fun and engaging. We created a Discord bot that quizzes users on compound names and awards points for correct answers. Participating in my first hackathon was an amazing learning experience where I honed my skills in pair programming, time-management, and effective communication
   
-  ### 🐈 [Mittens Bot](https://github.com/im-calvin/mittens_bot)
- Mittens is a project that I started as a complete beginner in programming, and she remains one of my most cherished projects. Initially, she was meant to help communicate with Japanese speaking users in a small Discord channel by translating every message. However, it soon grew to include other features like notifying users when Hololive streamers scheduled streams or went live. Over time, I added more functionality, such as translating Japanese kanji to furigana, pulling lyrics for karaoke tracks, and notifying for Twitter alerts. It is now up and running on Heroku without any issue. Through this project, I learned about web scraping, asynchronous functions, APIs, and more. Despite its humble beginnings, Mittens has become an important part of my programming journey. One day, I hope to refactor her with my newfound knowledge and smile at the workarounds that I had to make in my infancy as a programmer.
 </details>
  
 <details open>
