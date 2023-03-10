@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 <!--
 **im-calvin/im-calvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## My Stats! 📈
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2024%20mins-blue)
 
