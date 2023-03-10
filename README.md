@@ -13,7 +13,7 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
   
   <!-- UBC -->
   
-  ### :school: UBC Course Projects
+  ## :school: UBC Course Projects
   *Code access is available upon request for all projects
   #### [Multi-Client Server](https://cpen221-ubc.notion.site/Message-Queues-Pub-Sub-with-Twitter-c5965b28ed01482aad44dbaadac19b77) - CPEN 221
   - Constructed a server supporting multiple simultaneous clients capable of interacting and fetching tweets from Twitter
@@ -31,6 +31,8 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
   - Implemented graph and tree data structures with associated algorithms while optimizing time and space complexity
   - Exercised best practices including unit testing, documentation, and encapsulation to ensure quality and correctness
   
+  ## Personal Projects
+  
   ### :electron: [Musictag](https://github.com/im-calvin/musictag)
   Musictag is a project that was inspired by my personal frustration with manually modifying the metadata of cover songs downloaded from [YouTube](https://github.com/ytdl-org/youtube-dl). To solve this problem, I developed an [Electron](https://www.electronjs.org/) app that streamlines the process of editing music metadata. Throughout the development of this project, I gained a deep understanding of the full development life cycle of a product, from ideation to deployment. Currently, Musictag is only capable of serving songs from the [Holodex API](https://holodex.stoplight.io/), but I plan to expand its capabilities to include other libraries like [last.fm](https://www.last.fm/) so that it can serve an even larger variety of songs. With the help of [Electron Forge](https://www.electronforge.io/), I'm able to publish updates to users and package the app for Windows, MacOS, and Linux.
   
@@ -40,15 +42,15 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
   
 <!-- Hackathons --> 
 
-  ### 🐱‍💻 Hackathons
+  ## 🐱‍💻 Hackathons
   
-  #### ✍️ [TODO: Tasks, Objectives, and Discussions Organized (NWHacks 2023)](https://github.com/TODO-nwHacks-2023/TODO)
+  ### ✍️ [TODO: Tasks, Objectives, and Discussions Organized (NWHacks 2023)](https://github.com/TODO-nwHacks-2023/TODO)
   Frustrated by the abundance of services that we had to use to access course information and assignments, we created a web-app with React to combine our Canvas, Piazza (and more in the future) assignments, messages, and Q&A posts all into one location. With [others](https://github.com/TODO-nwHacks-2023), we created a Python back end that interacts with the [Canvas API](https://canvas.instructure.com/doc/api/) as well as an [unofficial Piazza API](https://github.com/hfaran/piazza-api). The back end also syncs data with a [MongoDB](https://www.mongodb.com/) database for storing and retrieving information. Lastly, we had a React [front end](/frontend) that communicates with our custom [Flask](https://flask.palletsprojects.com/en/2.2.x/) API to retrieve and display the information to users. I was primarily responsible for the front end, but also contributed to the back end through data collection and wrangling with the APIs.
   
-  #### 🎵 [SpotifyGo](https://github.com/kputhanangadi/SpotifyGo)
+  ### 🎵 [SpotifyGo](https://github.com/kputhanangadi/SpotifyGo)
   SpotifyGo is a project born out of the desire to make daily commutes more enjoyable by providing a custom playlist tailored to the exact length of the commute. The project uses the Spotify API to generate a playlist based on the user's preferences and the estimated length of the commute. I was responsible for creating the back end API using Express.js and implementing the front end using React. To make the user experience smoother, I spearheaded the integrated of the Google Maps Matrix API, allowing users to select their location with autofill. This project helped me develop my skills in API integration, front-end development, and project management.
   
-  #### 🧪 [Organic Chemistry Quiz Discord Bot](https://github.com/im-calvin/HackToSchoolBot22) [Hack To School 2022 Hackathon First Overall] (https://github.com/bxian03/HackToSchoolAPI22)
+  ### 🧪 [Organic Chemistry Quiz Discord Bot](https://github.com/im-calvin/HackToSchoolBot22) [(Hack To School 2022 Hackathon First Overall)](https://github.com/bxian03/HackToSchoolAPI22)
   The Organic Chemistry Quiz Discord Bot was aimed to make learning compound names more fun and engaging. We created a Discord bot that quizzes users on compound names and awards points for correct answers. Participating in my first hackathon was an amazing learning experience where I honed my skills in pair programming, time-management, and effective communication
   
 </details>
