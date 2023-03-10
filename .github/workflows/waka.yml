@@ -25,5 +25,4 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_PROJECTS: "False"
-          TIME_RANGE: "last_30_days"
-          SYMBOL_VERSION: "⣀⣄⣤⣦⣶⣷⣿"
+          SECTION_NAME: "My Stats 📊"
