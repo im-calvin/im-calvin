@@ -27,3 +27,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SECTION_NAME: "My Stats 📊"
           SYMBOL_VERSION: "1"
+          SHOW_COMMIT: "False"
