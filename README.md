@@ -4,6 +4,10 @@
 
 Hi 👋, I am Kelvin a second year computer engineering student at the University of British Columbia with a keen interest in both computer hardware and software. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time, I enjoy pursuing personal projects, building mechanical keyboards, and playing games.
 
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs-blue)
+
 <!-- Projects -->
 
 <h2 align="center">What I'm up To</h2>
@@ -66,9 +70,6 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
 </details>
 
 <h2 align="center">My Stats! 📈</h2>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
 
