@@ -68,24 +68,25 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
 <h2 align="center">My Stats! 📈</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        7 hrs 59 mins       ███████████████░░░░░░░░░░   60.35 % 
-ObjectiveC               4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.36 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               18 hrs 50 mins      ███████████████████░░░░░░   77.63 % 
+Python                   3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+YAML                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Windows                  13 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 56 mins      ███████████████████████░░   90.40 % 
+Linux                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 ```
 
 
- Last Updated on 25/04/2023 18:34:34 UTC
+ Last Updated on 12/05/2023 18:34:29 UTC
 <!--END_SECTION:waka-->
