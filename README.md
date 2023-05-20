@@ -68,7 +68,7 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
 <h2 align="center">My Stats! 📈</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
 
@@ -76,16 +76,17 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 47 mins      █████████████████████░░░░   82.33 % 
-Python                   2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Docker                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               19 hrs 31 mins      ████████████████████░░░░░   79.28 % 
+Python                   2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Docker                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Windows                  21 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 32 mins      ███████████████████████░░   91.52 % 
+Linux                    2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 ```
 
 
- Last Updated on 19/05/2023 18:33:41 UTC
+ Last Updated on 20/05/2023 18:33:24 UTC
 <!--END_SECTION:waka-->
