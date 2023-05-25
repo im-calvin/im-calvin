@@ -1,8 +1,7 @@
 <!-- About -->
 
-<p align="center">
   [![wakatime](https://wakatime.com/badge/user/b163ef99-bb97-41f6-b630-c8b6c8ff1993.svg)](https://wakatime.com/@b163ef99-bb97-41f6-b630-c8b6c8ff1993)
-</p>
+
 <h2 align="center">About Me</h2>
 
 Hi 👋, I am Kelvin a second year computer engineering student at the University of British Columbia with a keen interest in both computer hardware and software. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time, I enjoy pursuing personal projects, building mechanical keyboards, and playing games.
