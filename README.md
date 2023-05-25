@@ -1,7 +1,7 @@
 <!-- About -->
-<div align="center">
+
   [![wakatime](https://wakatime.com/badge/user/b163ef99-bb97-41f6-b630-c8b6c8ff1993.svg)](https://wakatime.com/@b163ef99-bb97-41f6-b630-c8b6c8ff1993)
-</div>
+
   
 <h2 align="center">About Me</h2>
 
