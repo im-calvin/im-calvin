@@ -1,5 +1,7 @@
 <!-- About -->
 
+[![wakatime](https://wakatime.com/badge/user/b163ef99-bb97-41f6-b630-c8b6c8ff1993.svg)](https://wakatime.com/@b163ef99-bb97-41f6-b630-c8b6c8ff1993)
+
 <h2 align="center">About Me</h2>
 
 Hi 👋, I am Kelvin a second year computer engineering student at the University of British Columbia with a keen interest in both computer hardware and software. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time, I enjoy pursuing personal projects, building mechanical keyboards, and playing games.
@@ -64,29 +66,3 @@ Hi 👋, I am Kelvin a second year computer engineering student at the Universit
   ### 💻 [Personal Website](https://im-calvin.github.io)
   I'm also developing my own personal website using React. This is a long-term project that I revisit whenever I don't have to work on something urgent. I'm taking my time to create something truly custom that showcases my skills and passions. While this project is currently on the back burner, it's been an excellent opportunity for me to learn and grow as a frontend web developer. I look forward to sharing it with everyone when it's ready.
 </details>
-
-<h2 align="center">My Stats! 📈</h2>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-835%20hrs%2016%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.1%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               15 hrs 45 mins      █████████████░░░░░░░░░░░░   50.90 % 
-TypeScript               9 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-Python                   2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-YAML                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-
-💻 Operating System: 
-Linux                    20 hrs 9 mins       ████████████████░░░░░░░░░   65.08 % 
-Windows                  10 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   34.92 % 
-```
-
-
- Last Updated on 24/05/2023 18:33:44 UTC
-<!--END_SECTION:waka-->
