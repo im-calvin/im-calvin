@@ -5,7 +5,12 @@
   
 <h2 align="center">About Me</h2>
 
-Hi 👋, I am Kelvin a third year computer engineering student at the University of British Columbia with a keen interest in both computer hardware and software. I'm also an aspiring software engineer with a passion for coding and creating innovative solutions. In my free time, I enjoy pursuing personal projects, building mechanical keyboards, and playing games.
+Hi 👋, I'm Kelvin, a third-year computer engineering student at the University of British Columbia with a passion for software development and an eye for innovation. 
+My experience includes a Software Developer Internship at ARIS Environmental, where I contributed to enhancing system reliability, streamlining communication, and deploying cloud services efficiently. I spearheaded automated testing procedures, advocated for Docker-based deployments, and overhauled build processes to solve complex challenges.
+
+My technical strengths lie in TypeScript, React, and Python, and I thrive when designing and implementing end-to-end web-based solutions. Whether it's spearheading automated testing procedures to boost uptime, advocating for Docker-based deployments, or overhauling build processes, I'm dedicated to solving complex challenges.
+
+I'm on a mission to secure a full-stack development role, leveraging my experience in building applications from start to finish and my ability to collaborate effectively in teams. Let's connect and explore opportunities to create innovative solutions together!
 
 <!-- Projects -->
 
