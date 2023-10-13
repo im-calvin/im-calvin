@@ -1,6 +1,6 @@
 <!-- About -->
 
-  [![wakatime](https://wakatime.com/badge/user/b163ef99-bb97-41f6-b630-c8b6c8ff1993.svg)](https://wakatime.com/@b163ef99-bb97-41f6-b630-c8b6c8ff1993)
+  <!-- [![wakatime](https://wakatime.com/badge/user/b163ef99-bb97-41f6-b630-c8b6c8ff1993.svg)](https://wakatime.com/@b163ef99-bb97-41f6-b630-c8b6c8ff1993) -->
 
   
 <h2 align="center">About Me</h2>
@@ -71,7 +71,7 @@ I'm on a mission to secure a full-stack development role, leveraging my experien
 <details open>
   <summary>:card_index_dividers: Current Projects</summary>
 
-  ### 🐈 [Mittens Bot](https://github.com/im-calvin/mittens_bot)
+  ### 🐈 [Mittens Bot](https://github.com/im-calvin/Mittens)
  Mittens is a project that I started as a complete beginner in programming, and she remains one of my most cherished projects. Initially, she was meant to help communicate with Japanese speaking users in a small Discord channel by translating every message. However, it soon grew to include other features like notifying users when Hololive streamers scheduled streams or went live. Over time, I added more functionality, such as translating Japanese kanji to furigana, pulling lyrics for karaoke tracks, and notifying for Twitter alerts. It is now up and running on Heroku without any issue. Through this project, I learned about web scraping, asynchronous functions, APIs, and more. Despite its humble beginnings, Mittens has become an important part of my programming journey. One day, I hope to refactor her with my newfound knowledge and smile at the workarounds that I had to make in my infancy as a programmer.
 
   ### 💻 [Personal Website](https://kelvinw.com)
