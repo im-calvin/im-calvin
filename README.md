@@ -6,7 +6,10 @@
 <h2 align="center">About Me</h2>
 
 Hi 👋, I'm Kelvin, a third-year computer engineering student at the University of British Columbia with a passion for software development and an eye for innovation. 
-My experience includes a Software Developer Internship at ARIS Environmental, where I contributed to enhancing system reliability, streamlining communication, and deploying cloud services efficiently. I spearheaded automated testing procedures, advocated for Docker-based deployments, and overhauled build processes to solve complex challenges.
+
+My experience includes working as an AI Developer Intern at NETINT Technologies, a company at the forefront of video processing technology used by giants such as TikTok, Netflix, and Alibaba. During my 4-month internship, I significantly improved developer productivity by 25% through the development of specialized internal tools based on generative AI. This role allowed me to delve deeper into the realm of AI, honing my skills and contributing to cutting-edge solutions in video processing.
+
+Before this, I worked as a Software Developer Internship at ARIS Environmental, where I contributed to enhancing system reliability, streamlining communication, and deploying cloud services efficiently. I spearheaded automated testing procedures, advocated for Docker-based deployments, and overhauled build processes to solve complex challenges.
 
 My technical strengths lie in TypeScript, React, and Python, and I thrive when designing and implementing end-to-end web-based solutions. Whether it's spearheading automated testing procedures to boost uptime, advocating for Docker-based deployments, or overhauling build processes, I'm dedicated to solving complex challenges.
 
