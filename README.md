@@ -9,6 +9,8 @@ Hi 👋, I'm Kelvin, a computer engineering student at the University of British
 
 I'm currently interning at Amazon on the North American Payments team. I've also previously worked as an AI Developer Intern at NETINT Technologies and ARIS, both tech startups in Vancouver, BC.
 
+You can view my resume [here](https://papermark.io/view/clz50ba8f00028oqex9thgcpl)
+
 <!-- <details>
   <summary>ℹ️ More About Me</summary>
   
