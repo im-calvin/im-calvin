@@ -94,7 +94,7 @@ I'm on a mission to secure a full-stack development role, leveraging my experien
 <details open>
   <summary>:card_index_dividers: Current Projects</summary>
   
-  ### 🤹‍♂️ [Job Tracker](https://github.com/im-calvin/job-tracker)
+  ### 🛤️ [Job Tracker](https://github.com/im-calvin/job-tracker)
   Frustrated by current job tracking platforms and their high friction in adding applications and tracking them, I'm creating a platform that automatically does all of this for the user. When signing up for the website, I give the user a custom email that you use to apply to jobs and when a response is received, the system will parse the email to determine the company, the status of the application, and the position that you applied for. In addition, we provide a dashboard to see your job application stats and visualize the data however you want. 
 
 
