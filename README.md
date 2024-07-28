@@ -9,14 +9,14 @@ Hi 👋, I'm Kelvin, a computer engineering student at the University of British
 
 I'm currently interning at Amazon on the North American Payments team. I've also previously worked as an AI Developer Intern at NETINT Technologies and ARIS, both tech startups in Vancouver, BC.
 
-<details>
+<!-- <details>
   <summary>ℹ️ More About Me</summary>
   
 My technical strengths lie in TypeScript, React, and Python, and I thrive when designing and implementing end-to-end web-based solutions. Whether it's spearheading automated testing procedures to boost uptime, advocating for Docker-based deployments, or overhauling build processes, I'm dedicated to solving complex challenges.
 
 I'm on a mission to secure a full-stack development role, leveraging my experience in building applications from start to finish and my ability to collaborate effectively in teams. Let's connect and explore opportunities to create innovative solutions together!
 
-</details>
+</details> -->
 <!-- Projects -->
 
 <h2 align="center">What I'm up To</h2>
@@ -25,6 +25,9 @@ I'm on a mission to secure a full-stack development role, leveraging my experien
   <summary>:card_file_box: Past Projects</summary>
   
   ## Personal Projects
+  
+  ### 💻 [Personal Website](https://kelvinw.com)
+  This is my personal portfolio website, custom built using React, Astro, and TailwindCSS. It showcases my skills and projects, and provides a way for potential clients and collaborators to get in touch with me. It is currently deployed using Firebase at [kelvinw.com](https://kelvinw.com) and [Github Pages](https://im-calvin.github.io). 
 
   ### 🔒 [3FA](https://github.com/Computing-Collective/3FA) 
   In the 3FA project, I assumed a pivotal role in both constructing a comprehensive backend API using Python, employing Flask and SQLite as well as developing a web app and an electron app. This undertaking encompassed the development of over 20 endpoints, each tailored to facilitate distinct functionalities. Additionally, I took charge of the design and implementation of a robust authentication flow, meticulously aligning with OWASP security standards. This involved the establishment of secure session and authentication tokens, encrypted communication channels, password hashing, and the inclusion of automatic timeouts to fortify our security measures. Simultaneously, on the frontend, I harnessed my expertise to craft over 15 bespoke React components. These components not only expedited development by 30%, but they also orchestrated a harmonious and user-centric experience across the entire application. I was also tasked with integrating hardware and backend components into the frontend within a tight 1-week window. 
@@ -90,7 +93,9 @@ I'm on a mission to secure a full-stack development role, leveraging my experien
  
 <details open>
   <summary>:card_index_dividers: Current Projects</summary>
+  
+  ### 🤹‍♂️ [Job Tracker](https://github.com/im-calvin/job-tracker)
+  Frustrated by current job tracking platforms and their high friction in adding applications and tracking them, I'm creating a platform that automatically does all of this for the user. When signing up for the website, I give the user a custom email that you use to apply to jobs and when a response is received, the system will parse the email to determine the company, the status of the application, and the position that you applied for. In addition, we provide a dashboard to see your job application stats and visualize the data however you want. 
 
-  ### 💻 [Personal Website](https://kelvinw.com)
-  This is my personal portfolio website, custom built using React, Astro, and TailwindCSS. It showcases my skills and projects, and provides a way for potential clients and collaborators to get in touch with me. It is currently deployed using Firebase at [kelvinw.com](https://kelvinw.com) and [Github Pages](https://im-calvin.github.io). 
+
 </details>
