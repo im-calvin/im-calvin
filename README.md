@@ -5,9 +5,9 @@
   
 <h2 align="center">About Me</h2>
 
-Hi 👋, I'm Kelvin, a computer engineering student at the University of British Columbia.
+Hi 👋, I'm Kelvin, currently working at Amazon for the US Prime Credit Card. 
 
-I'm currently interning at Amazon on the North American Payments team. I've also previously worked as an AI Developer Intern at NETINT Technologies and ARIS, both tech startups in Vancouver, BC.
+I'm an ECE alumni from the University of British Columbia, previously interning at Amazon on the North American Payments team. I've also previously worked as an AI Developer Intern at NETINT Technologies and ARIS, both tech startups in Vancouver, BC.
 
 You can view my resume [here](https://papermark.io/view/clz50ba8f00028oqex9thgcpl)
 
